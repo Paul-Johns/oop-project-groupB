@@ -5,6 +5,8 @@ import java.awt.Dimension;
 import java.awt.Font;
 import javax.swing.*;
 
+//Creating a class
+
 public class LoginView  {
 
 	public static void main(String[] args) {
