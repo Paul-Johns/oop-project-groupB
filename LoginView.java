@@ -45,7 +45,7 @@ public class LoginView  {
 		JTextField textField = new JTextField();
 		textField.setBounds(97, 70, 312, 29);
 		panel.add(textField);
-		
+		//color packages
 		JSeparator separator = new JSeparator();
 		separator.setBackground(Color.GRAY);
 		separator.setForeground(Color.LIGHT_GRAY);
